@@ -62,5 +62,5 @@ if diff_percentage > CUSTOM_PERCENTAGE:
                 msg=f"Subject: {STOCK}: 🔻{diff_percentage}\n\n{STOCK}: 🔻{diff_percentage}\nHeadline:{title}\nBrief: {description}"
             )
 
-
+#==========================================================================================================================================#
 
